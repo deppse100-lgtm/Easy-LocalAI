@@ -33,3 +33,7 @@ The original LocalAI is managed via the command line and Docker. This build intr
 
 ## Disclaimer & License
 The source code of the original LocalAI core is distributed under the MIT License. This graphical interface wrapper is also distributed under the MIT License. The developer of this GUI is not affiliated with the official LocalAI team.
+
+
+
+https://github.com/user-attachments/assets/79fa5f3d-d81a-4c4d-83c5-a3cafe11f9ac
